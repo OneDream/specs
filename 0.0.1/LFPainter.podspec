@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
                    DESC
   s.homepage     = "https://git@github.com:OneDream/LFPainter.git"
   s.license      = "MIT (example)"
-  s.author             = { "ethan.lxb" => "ethan.lxb@alibaba-inc.com" }
+  s.author       = { "ethan.lxb" => "ethan.lxb@alibaba-inc.com" }
   s.platform     = :ios
   s.source       = { :git => "git@github.com:OneDream/LFPainter.git", :branch => "master" }
   s.source_files  = 'LFPainter', "LFPainter/**/*.{h,m}"
